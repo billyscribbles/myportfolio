@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/myportfolio/static/css/main.e4e3b16c.chunk.css",
+    "main.js": "/myportfolio/static/js/main.651060dc.chunk.js",
+    "main.js.map": "/myportfolio/static/js/main.651060dc.chunk.js.map",
+    "runtime~main.js": "/myportfolio/static/js/runtime~main.b6d921c7.js",
+    "runtime~main.js.map": "/myportfolio/static/js/runtime~main.b6d921c7.js.map",
+    "static/css/2.fda30995.chunk.css": "/myportfolio/static/css/2.fda30995.chunk.css",
+    "static/js/2.91afe059.chunk.js": "/myportfolio/static/js/2.91afe059.chunk.js",
+    "static/js/2.91afe059.chunk.js.map": "/myportfolio/static/js/2.91afe059.chunk.js.map",
+    "index.html": "/myportfolio/index.html",
+    "precache-manifest.bbd250f7a7493efe3382788c1ee1c121.js": "/myportfolio/precache-manifest.bbd250f7a7493efe3382788c1ee1c121.js",
+    "service-worker.js": "/myportfolio/service-worker.js",
+    "static/css/2.fda30995.chunk.css.map": "/myportfolio/static/css/2.fda30995.chunk.css.map",
+    "static/css/main.e4e3b16c.chunk.css.map": "/myportfolio/static/css/main.e4e3b16c.chunk.css.map",
+    "static/media/avatar.PNG": "/myportfolio/static/media/avatar.f51efffd.PNG",
+    "static/media/App.css": "/myportfolio/static/media/overlay.63337cc7.png",
+    "static/media/semantic.min.css": "/myportfolio/static/media/outline-icons.ef60a4f6.woff",
+    "static/media/tetris.PNG": "/myportfolio/static/media/tetris.318f2348.PNG",
+    "static/media/tictactoe.PNG": "/myportfolio/static/media/tictactoe.48927f63.PNG"
+  }
+}
